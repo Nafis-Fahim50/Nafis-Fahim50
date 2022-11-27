@@ -1,6 +1,9 @@
+![Web Developer](https://i.ibb.co/gTQnmMs/White-Minimalist-Profile-Linked-In-Banner.png)
+
 <h1 align="center">Hi 👋, I'm Ebne Un Nafis Fahim</h1>
 <h3 align="center">Web Developer</h3>
 
+I'm a Front End Web Developer who is passionate about making an error-free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I enjoy working with ReactJS, and JavaScript with CSS framework.
 
 - 🌱 I’m currently learning **MERN Stack.**
 
