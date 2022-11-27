@@ -1,5 +1,3 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co/gTQnmMs/White-Minimalist-Profile-Linked-In-Banner.png)
-
 <h1 align="center">Hi 👋, I'm Ebne Un Nafis Fahim</h1>
 <h3 align="center">Web Developer</h3>
 
