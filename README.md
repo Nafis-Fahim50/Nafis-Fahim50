@@ -3,10 +3,6 @@
 
 I'm a Front End Web Developer who is passionate about making an error-free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I enjoy working with ReactJS, and JavaScript with CSS framework. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nafis-fahim50&label=Profile%20views&color=0e75b6&style=flat" alt="nafis-fahim50" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nafis-fahim50" alt="nafis-fahim50" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack.**
 
 - 👨‍💻 All of my projects are available at [https://nafis-fahim50.github.io/developer-portfolio/](https://nafis-fahim50.github.io/developer-portfolio/)
