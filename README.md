@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/gTQnmMs/White-Minimalist-Profile-Linked-In-Banner.png)
+<img src="https://i.ibb.co/gTQnmMs/White-Minimalist-Profile-Linked-In-Banner.png" alt="" /> </a><p align="center"> 
 
 <h1 align="center">Hi 👋, I'm Ebne Un Nafis Fahim</h1>
 <h3 align="center">Web Developer</h3>
