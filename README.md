@@ -24,4 +24,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nafis-fahim50" alt="nafis-fahim50" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nafis-fahim50&label=Profile%20views&color=0e75b6&style=flat" alt="nafis-fahim50" /> </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nafis-Fahim50)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Nafis-Fahim50)  
+
+![Profile views](https://gpvc.arturio.dev/Nafis-Fahim50)  
